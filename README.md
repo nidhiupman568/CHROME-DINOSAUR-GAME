@@ -2,6 +2,8 @@
 
 🎉Welcome to my Chrome Dinosaur game clone! 🎉 This project recreates the iconic offline browser game using 🌐 HTML, 🎨 CSS, and 💻 JavaScript with HTML5 Canvas. 🌟
 
+Project Demo: https://nidhiupman568.github.io/CHROME-DINOSAUR-GAME/
+
 ## Features 🌟
 
 - **Game Loop 🔄**: Smooth and continuous game updates. 🕹️
